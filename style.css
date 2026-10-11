@@ -27,9 +27,9 @@ header {
 /* ---------- Título principal ----------
    Parte 5: os dois alunos alteram esta regra ao mesmo tempo */
 h1 {
-    color: #2ecc71;
-    font-size: 3rem;
-    text-align: left;
+    color: #e74c3c; /* Versao Lorenzo */
+    font-size: 1.5rem; /* Versao Joao */
+    text-align: center; /* Alinhamento escolhido pelos dois*/
 }
 
 /* ---------- Conteúdo ---------- */
